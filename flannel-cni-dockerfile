@@ -1,0 +1,1 @@
+FROM flannel-cni-plugin:v1.9.1-flannel3
